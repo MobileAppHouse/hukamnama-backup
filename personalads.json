@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "timezone": "Asia/Kolkata",
+  "defaultDuration": 10,
+  
+
+  "ads": [
+
+    {
+      "id": 1,
+      "title": "Saran Edu World",
+      "placement": "home",
+      "visible": true,
+      "enabled": true,
+      "priority": 1,
+
+      "image": "https://sikhworldapp.com/divinesikhism/personalads/saranedu.jpg",
+
+      "clickType": "youtube",
+      "clickValue": "https://youtube.com/@saraneduworld?si=-dOuqOexTBXZcPpn",
+
+      "duration": 10,
+
+      "start": "2026-07-01",
+      "end": "2027-12-31"
+    },
+
+    {
+      "id": 2,
+      "title": "Advertise With Us",
+      "placement": "home",
+      "visible": true,
+      "enabled": true,
+      "priority": 2,
+
+      "image": "https://sikhworldapp.com/divinesikhism/personalads/advertise_with_us.jpg",
+
+      "clickType": "email",
+      "clickValue": "mailto:mobileapphouse@gmail.com",
+
+      "duration": 10,
+
+      "start": "2026-01-01",
+      "end": "2035-12-31"
+    }
+
+   
+
+  
+
+  ]
+}
