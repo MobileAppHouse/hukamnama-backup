@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "reference_date": "2026-01-01",
+  "quotes": [
+    {
+      "id": "53",
+      "date": "2026-01-01",
+      "quote_pa": "ਇਕ ਓਅੰਕਾਰ ਸਤਿਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ",
+      "quote_en": "One Universal Creator God. The Name is Truth.",
+      "vyakhya_pa": "ਇਹ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਇਕ ਹੈ ਜੋ ਸਦਾ ਸੱਚ ਹੈ।",
+      "vyakhya_en": "There is only one Creator whose essence is truth."
+    },
+    {
+      "id": "2",
+      "date": "",
+      "quote_pa": "ਨਾਨਕ ਨਾਮ ਚੜ੍ਹਦੀ ਕਲਾ",
+      "quote_en": "Through Naam, one rises in high spirits.",
+      "vyakhya_pa": "ਵਾਹਿਗੁਰੂ ਦੇ ਨਾਮ ਨਾਲ ਮਨ ਉੱਚਾ ਹੁੰਦਾ ਹੈ।",
+      "vyakhya_en": "Naam uplifts the soul and keeps one positive."
+    },
+    {
+      "id": "3",
+      "date": "",
+      "quote_pa": "ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ",
+      "quote_en": "By thinking, He cannot be understood.",
+      "vyakhya_pa": "ਕੇਵਲ ਵਿਚਾਰਾਂ ਨਾਲ ਪ੍ਰਭੂ ਦੀ ਪ੍ਰਾਪਤੀ ਨਹੀਂ ਹੁੰਦੀ।",
+      "vyakhya_en": "God cannot be realized through intellect alone."
+    },
+    {
+      "id": "4",
+      "date": "",
+      "quote_pa": "ਹਉਮੈ ਵਿਚਿ ਜਗਤੁ ਮੁਆ",
+      "quote_en": "The world is dying in ego.",
+      "vyakhya_pa": "ਅਹੰਕਾਰ ਮਨੁੱਖ ਨੂੰ ਰੱਬ ਤੋਂ ਦੂਰ ਕਰ ਦਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "Ego distances a person from God."
+    },
+    {
+      "id": "5",
+      "date": "",
+      "quote_pa": "ਜਿਨੀ ਨਾਮੁ ਧਿਆਇਆ ਗਏ ਮਸਕਤਿ ਘਾਲਿ",
+      "quote_en": "Those who meditate on Naam depart with honor.",
+      "vyakhya_pa": "ਨਾਮ ਜਪਣ ਵਾਲੇ ਜੀਵਨ ਨੂੰ ਸਫਲ ਬਣਾਉਂਦੇ ਹਨ।",
+      "vyakhya_en": "Those who meditate on Naam live successful lives."
+    },
+    {
+      "id": "6",
+      "date": "",
+      "quote_pa": "ਮਨ ਜੀਤੈ ਜਗੁ ਜੀਤੁ",
+      "quote_en": "Conquer the mind and conquer the world.",
+      "vyakhya_pa": "ਜੋ ਮਨ ਨੂੰ ਕਾਬੂ ਕਰ ਲੈਂਦਾ ਹੈ ਉਹ ਸਭ ਕੁਝ ਜਿੱਤ ਲੈਂਦਾ ਹੈ।",
+      "vyakhya_en": "One who controls the mind conquers everything."
+    },
+    {
+      "id": "7",
+      "date": "",
+      "quote_pa": "ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ",
+      "quote_en": "There is one Giver for all beings.",
+      "vyakhya_pa": "ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਰੋਜ਼ੀ ਰੋਟੀ ਦੇਣ ਵਾਲਾ ਇਕ ਪ੍ਰਭੂ ਹੈ।",
+      "vyakhya_en": "One God provides for all beings."
+    },
+    {
+      "id": "8",
+      "date": "",
+      "quote_pa": "ਵਿਣੁ ਨਾਵੈ ਨਾਹੀ ਕੋ ਥਾਉ",
+      "quote_en": "Without Naam, there is no place of peace.",
+      "vyakhya_pa": "ਨਾਮ ਤੋਂ ਬਿਨਾਂ ਮਨ ਨੂੰ ਸੱਚੀ ਸ਼ਾਂਤੀ ਨਹੀਂ ਮਿਲਦੀ।",
+      "vyakhya_en": "Without Naam, true peace cannot be attained."
+    },
+    {
+      "id": "9",
+      "date": "",
+      "quote_pa": "ਸਚਹੁ ਓਰੈ ਸਭੁ ਕੋ ਉਪਰਿ ਸਚੁ ਆਚਾਰੁ",
+      "quote_en": "Truth is above all, but higher still is truthful living.",
+      "vyakhya_pa": "ਸੱਚ ਬੋਲਣ ਨਾਲੋਂ ਵੱਡੀ ਗੱਲ ਸੱਚਾ ਜੀਵਨ ਜੀਉਣਾ ਹੈ।",
+      "vyakhya_en": "Living truthfully is greater than merely speaking truth."
+    },
+    {
+      "id": "10",
+      "date": "",
+      "quote_pa": "ਭੈ ਵਿਚਿ ਦੁਖੁ ਸੁਖੁ ਸਭੁ ਕੋ",
+      "quote_en": "In the fear of God exists pain and pleasure.",
+      "vyakhya_pa": "ਸਭ ਕੁਝ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਅੰਦਰ ਹੀ ਵਾਪਰਦਾ ਹੈ।",
+      "vyakhya_en": "Everything happens within God’s command."
+    },
+    {
+      "id": "11",
+      "date": "",
+      "quote_pa": "ਨਾਮ ਕੇ ਧਾਰੇ ਸਗਲੇ ਜੰਤ",
+      "quote_en": "All beings are sustained by Naam.",
+      "vyakhya_pa": "ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨਾਲ ਟਿਕੀ ਹੋਈ ਹੈ।",
+      "vyakhya_en": "All creation is sustained through Naam."
+    },
+    {
+      "id": "12",
+      "date": "2026-05-06",
+      "quote_pa": "ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਗਾਖੜੀ",
+      "quote_en": "Difficult is the service of the True Guru.",
+      "vyakhya_pa": "ਗੁਰੂ ਦੀ ਸੇਵਾ ਨਿਮਰਤਾ ਅਤੇ ਸੱਚੀ ਭਗਤੀ ਮੰਗਦੀ ਹੈ।",
+      "vyakhya_en": "Serving the Guru requires humility and devotion."
+    },
+    {
+      "id": "13",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਕਾ ਨਾਮੁ ਅੰਮ੍ਰਿਤੁ ਹੈ",
+      "quote_en": "The Name of the Lord is nectar.",
+      "vyakhya_pa": "ਵਾਹਿਗੁਰੂ ਦਾ ਨਾਮ ਮਨ ਲਈ ਅੰਮ੍ਰਿਤ ਵਰਗਾ ਹੈ।",
+      "vyakhya_en": "God’s Name is nectar for the soul."
+    },
+    {
+      "id": "14",
+      "date": "",
+      "quote_pa": "ਦੁਖੁ ਦਾਰੂ ਸੁਖੁ ਰੋਗੁ ਭਇਆ",
+      "quote_en": "Pain is the medicine, pleasure the disease.",
+      "vyakhya_pa": "ਦੁੱਖ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਭੂ ਵੱਲ ਮੋੜਦਾ ਹੈ।",
+      "vyakhya_en": "Pain often brings a person closer to God."
+    },
+    {
+      "id": "15",
+      "date": "2026-05-07",
+      "quote_pa": "ਸਿਮਰਿ ਸਿਮਰਿ ਸੁਖੁ ਪਾਵਹੁ",
+      "quote_en": "Meditate in remembrance and find peace.",
+      "vyakhya_pa": "ਵਾਹਿਗੁਰੂ ਦਾ ਸਿਮਰਨ ਮਨ ਨੂੰ ਸ਼ਾਂਤੀ ਦਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "Meditation on God brings peace."
+    },
+    {
+      "id": "16",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਜਪਿ ਮਨ ਮੇਰੇ",
+      "quote_en": "O my mind, meditate on the Lord.",
+      "vyakhya_pa": "ਮਨ ਨੂੰ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਨਾਲ ਜੋੜਨਾ ਚਾਹੀਦਾ ਹੈ।",
+      "vyakhya_en": "The mind should remain connected with God."
+    },
+    {
+      "id": "17",
+      "date": "",
+      "quote_pa": "ਕਿਰਤ ਕਰੋ ਨਾਮ ਜਪੋ ਵੰਡ ਛਕੋ",
+      "quote_en": "Work honestly, meditate on Naam, and share with others.",
+      "vyakhya_pa": "ਸਿੱਖੀ ਦਾ ਮੂਲ ਸਿਧਾਂਤ ਸੱਚੀ ਕਮਾਈ ਅਤੇ ਸੇਵਾ ਹੈ।",
+      "vyakhya_en": "Honest work and sharing are key Sikh principles."
+    },
+    {
+      "id": "18",
+      "date": "",
+      "quote_pa": "ਨਦਰੀ ਮੋਖੁ ਦੁਆਰੁ",
+      "quote_en": "Liberation comes through His Grace.",
+      "vyakhya_pa": "ਮੁਕਤੀ ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਮਿਲਦੀ ਹੈ।",
+      "vyakhya_en": "Liberation is attained through God’s grace."
+    },
+    {
+      "id": "19",
+      "date": "",
+      "quote_pa": "ਸੇਵਾ ਕਰਤ ਹੋਇ ਨਿਹਕਾਮੀ",
+      "quote_en": "Selfless service leads to union with God.",
+      "vyakhya_pa": "ਨਿਸ਼ਕਾਮ ਸੇਵਾ ਮਨ ਨੂੰ ਪਵਿੱਤਰ ਬਣਾਉਂਦੀ ਹੈ।",
+      "vyakhya_en": "Selfless service purifies the heart."
+    },
+    {
+      "id": "20",
+      "date": "",
+      "quote_pa": "ਜਪੁ ਤਪੁ ਸੰਜਮੁ ਧਰਮੁ ਨ ਕਮਾਇਆ",
+      "quote_en": "Without righteous deeds, rituals are useless.",
+      "vyakhya_pa": "ਕੇਵਲ ਰਸਮਾਂ ਨਾਲ ਨਹੀਂ, ਚੰਗੇ ਕਰਮਾਂ ਨਾਲ ਜੀਵਨ ਸੁਫਲ ਹੁੰਦਾ ਹੈ।",
+      "vyakhya_en": "Good deeds matter more than rituals."
+    },
+    {
+      "id": "21",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਬਿਨੁ ਅਵਰੁ ਨ ਜਾਣਾ",
+      "quote_en": "Know none except the Lord.",
+      "vyakhya_pa": "ਸੱਚਾ ਆਸਰਾ ਕੇਵਲ ਵਾਹਿਗੁਰੂ ਹੈ।",
+      "vyakhya_en": "God alone is the true support."
+    },
+    {
+      "id": "22",
+      "date": "",
+      "quote_pa": "ਨਾਮੁ ਜਪਹੁ ਜੀ ਸਦਾ ਨਾਮੁ ਅਧਾਰੁ",
+      "quote_en": "Meditate always on Naam, the true support.",
+      "vyakhya_pa": "ਨਾਮ ਹੀ ਜੀਵਨ ਦਾ ਸੱਚਾ ਆਸਰਾ ਹੈ।",
+      "vyakhya_en": "Naam is the true support of life."
+    },
+    {
+      "id": "23",
+      "date": "",
+      "quote_pa": "ਗੁਰ ਪਰਸਾਦੀ ਬੂਝੀਐ",
+      "quote_en": "Through the Guru’s grace, understanding comes.",
+      "vyakhya_pa": "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਸੱਚ ਦੀ ਸਮਝ ਆਉਂਦੀ ਹੈ।",
+      "vyakhya_en": "Truth is realized through the Guru’s grace."
+    },
+    {
+      "id": "24",
+      "date": "",
+      "quote_pa": "ਜੈਸੀ ਨਦਰਿ ਕਰੇ ਵੈਸਾ ਹੋਈ",
+      "quote_en": "As God casts His glance, so things happen.",
+      "vyakhya_pa": "ਸਭ ਕੁਝ ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਨਾਲ ਹੀ ਵਾਪਰਦਾ ਹੈ।",
+      "vyakhya_en": "Everything occurs by God’s grace."
+    },
+    {
+      "id": "25",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਈਐ",
+      "quote_en": "Meditate on the Lord’s Name.",
+      "vyakhya_pa": "ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।",
+      "vyakhya_en": "One should always remember God."
+    },
+    {
+      "id": "26",
+      "date": "",
+      "quote_pa": "ਗੁਰ ਕਾ ਸਬਦੁ ਰਤੰਨੁ ਹੈ",
+      "quote_en": "The Guru’s Word is a jewel.",
+      "vyakhya_pa": "ਗੁਰਬਾਣੀ ਮਨੁੱਖ ਲਈ ਅਮੋਲਕ ਧਨ ਹੈ।",
+      "vyakhya_en": "Gurbani is a priceless treasure."
+    },
+    {
+      "id": "27",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਸਿਮਰਨਿ ਕਰਿ ਭਗਤ ਪ੍ਰਗਟਾਏ",
+      "quote_en": "Through remembrance of God, devotees shine.",
+      "vyakhya_pa": "ਸਿਮਰਨ ਨਾਲ ਮਨੁੱਖ ਦਾ ਜੀਵਨ ਚਮਕ ਉਠਦਾ ਹੈ।",
+      "vyakhya_en": "Meditation on God enlightens life."
+    },
+    {
+      "id": "28",
+      "date": "",
+      "quote_pa": "ਜੋ ਤੁਧੁ ਭਾਵੈ ਸੋਈ ਚੰਗਾ",
+      "quote_en": "Whatever pleases You is good.",
+      "vyakhya_pa": "ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਹੀ ਸੱਚੀ ਭਗਤੀ ਹੈ।",
+      "vyakhya_en": "Accepting God’s will is true devotion."
+    },
+    {
+      "id": "29",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਨਾਮੁ ਧਨੁ ਸੰਚਹੁ",
+      "quote_en": "Gather the wealth of Naam.",
+      "vyakhya_pa": "ਨਾਮ ਸਭ ਤੋਂ ਵੱਡਾ ਧਨ ਹੈ ਜੋ ਸਦਾ ਨਾਲ ਰਹਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "Naam is the greatest eternal wealth."
+    },
+    {
+      "id": "30",
+      "date": "",
+      "quote_pa": "ਅੰਤਰਿ ਗੁਰੁ ਆਰਾਧਣਾ",
+      "quote_en": "Meditate on the Guru within.",
+      "vyakhya_pa": "ਗੁਰੂ ਨੂੰ ਹਿਰਦੇ ਵਿੱਚ ਵਸਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "vyakhya_en": "The Guru should reside within the heart."
+    },
+    {
+      "id": "31",
+      "date": "",
+      "quote_pa": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਜਪਹੁ ਮਨ ਮੇਰੇ",
+      "quote_en": "O mind, meditate on Naam through the Guru.",
+      "vyakhya_pa": "ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਨਾਲ ਨਾਮ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "vyakhya_en": "Meditate on Naam following the Guru’s path."
+    },
+    {
+      "id": "32",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਕੀਰਤਨੁ ਸੁਣਿ ਮਨੁ ਤਨੁ ਹਰਿਆ",
+      "quote_en": "Listening to God’s praises refreshes mind and body.",
+      "vyakhya_pa": "ਕੀਰਤਨ ਮਨ ਨੂੰ ਤਾਜ਼ਗੀ ਅਤੇ ਆਨੰਦ ਦਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "Kirtan refreshes the soul."
+    },
+    {
+      "id": "33",
+      "date": "",
+      "quote_pa": "ਗੁਰ ਸੇਵਾ ਤੇ ਭਗਤਿ ਕਮਾਈ",
+      "quote_en": "Through service to the Guru, devotion is earned.",
+      "vyakhya_pa": "ਗੁਰੂ ਦੀ ਸੇਵਾ ਨਾਲ ਸੱਚੀ ਭਗਤੀ ਮਿਲਦੀ ਹੈ।",
+      "vyakhya_en": "Service to the Guru leads to devotion."
+    },
+    {
+      "id": "34",
+      "date": "",
+      "quote_pa": "ਨਾਮ ਬਿਨਾ ਸਭੁ ਕੂੜੁ",
+      "quote_en": "Without Naam, all is false.",
+      "vyakhya_pa": "ਨਾਮ ਤੋਂ ਬਿਨਾਂ ਜੀਵਨ ਖਾਲੀ ਅਤੇ ਵਿਅਰਥ ਹੈ।",
+      "vyakhya_en": "Without Naam, life is meaningless."
+    },
+    {
+      "id": "35",
+      "date": "",
+      "quote_pa": "ਸਚਾ ਸਾਹਿਬੁ ਸਚੁ ਨਾਇ",
+      "quote_en": "True is the Master, true is His Name.",
+      "vyakhya_pa": "ਪ੍ਰਭੂ ਅਤੇ ਉਸਦਾ ਨਾਮ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਨ।",
+      "vyakhya_en": "God and His Name are eternal truth."
+    },
+    {
+      "id": "36",
+      "date": "",
+      "quote_pa": "ਵਾਹੁ ਵਾਹੁ ਬਾਣੀ ਨਿਰੰਕਾਰ ਹੈ",
+      "quote_en": "Wonderful is the Bani, the embodiment of the Formless One.",
+      "vyakhya_pa": "ਗੁਰਬਾਣੀ ਵਿੱਚ ਪ੍ਰਭੂ ਦਾ ਪ੍ਰਕਾਸ਼ ਵੱਸਦਾ ਹੈ।",
+      "vyakhya_en": "Gurbani carries the light of the Divine."
+    },
+    {
+      "id": "37",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਨਾਮੁ ਜਪਤ ਅਗਨਤ ਅਨੇਕਾ",
+      "quote_en": "Countless are redeemed through Naam.",
+      "vyakhya_pa": "ਅਨੇਕਾਂ ਜੀਵ ਨਾਮ ਜਪ ਕੇ ਤਰ ਜਾਂਦੇ ਹਨ।",
+      "vyakhya_en": "Many souls are uplifted through Naam."
+    },
+    {
+      "id": "38",
+      "date": "",
+      "quote_pa": "ਗੁਰ ਕੀ ਮਹਿਮਾ ਅਗਮ ਅਥਾਹ",
+      "quote_en": "The glory of the Guru is unfathomable.",
+      "vyakhya_pa": "ਗੁਰੂ ਦੀ ਮਹਿਮਾ ਬੇਅੰਤ ਅਤੇ ਅਪਾਰ ਹੈ।",
+      "vyakhya_en": "The Guru’s greatness is beyond measure."
+    },
+    {
+      "id": "39",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਰਸੁ ਪੀਵਹੁ ਸਦਾ ਚਿਰੁ ਜੀਵਹੁ",
+      "quote_en": "Drink the nectar of the Lord and live eternally.",
+      "vyakhya_pa": "ਨਾਮ ਦਾ ਰਸ ਆਤਮਕ ਜੀਵਨ ਦਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "The nectar of Naam gives spiritual life."
+    },
+    {
+      "id": "40",
+      "date": "",
+      "quote_pa": "ਸਤਿਗੁਰੁ ਪੂਰਾ ਭੇਟਿਆ",
+      "quote_en": "Meeting the Perfect Guru brings fulfillment.",
+      "vyakhya_pa": "ਪੂਰੇ ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਨਾਲ ਜੀਵਨ ਸਫਲ ਹੁੰਦਾ ਹੈ।",
+      "vyakhya_en": "The Perfect Guru fulfills life."
+    },
+    {
+      "id": "41",
+      "date": "",
+      "quote_pa": "ਗੁਰਮੁਖਿ ਰੋਮਿ ਰੋਮਿ ਹਰਿ ਧਿਆਵੈ",
+      "quote_en": "The Gurmukh remembers God with every breath.",
+      "vyakhya_pa": "ਗੁਰਮੁਖ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਨੂੰ ਯਾਦ ਰੱਖਦਾ ਹੈ।",
+      "vyakhya_en": "A Gurmukh remembers God constantly."
+    },
+    {
+      "id": "42",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਬਿਨੁ ਜੀਉ ਜਲਿ ਬਲਿ ਜਾਉ",
+      "quote_en": "Without God, the soul suffers deeply.",
+      "vyakhya_pa": "ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾਂ ਮਨੁੱਖ ਅੰਦਰੋਂ ਖਾਲੀ ਰਹਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "Without God, the soul remains restless."
+    },
+    {
+      "id": "43",
+      "date": "",
+      "quote_pa": "ਨਾਨਕ ਭਗਤਾ ਸਦਾ ਵਿਗਾਸੁ",
+      "quote_en": "Devotees remain forever in bliss.",
+      "vyakhya_pa": "ਭਗਤ ਹਮੇਸ਼ਾ ਆਤਮਕ ਖੁਸ਼ੀ ਵਿੱਚ ਰਹਿੰਦੇ ਹਨ।",
+      "vyakhya_en": "Devotees remain spiritually joyful."
+    },
+    {
+      "id": "44",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਕਾ ਸੇਵਕੁ ਸੋ ਹਰਿ ਜੇਹਾ",
+      "quote_en": "The servant of God becomes like Him.",
+      "vyakhya_pa": "ਪ੍ਰਭੂ ਦਾ ਸੇਵਕ ਉਸਦੇ ਗੁਣ ਅਪਣਾਉਂਦਾ ਹੈ।",
+      "vyakhya_en": "God’s servant adopts divine virtues."
+    },
+    {
+      "id": "45",
+      "date": "",
+      "quote_pa": "ਨਾਮੁ ਜਪਤ ਮਨੁ ਨਿਰਮਲੁ ਹੋਇ",
+      "quote_en": "Meditating on Naam purifies the mind.",
+      "vyakhya_pa": "ਨਾਮ ਜਪਣ ਨਾਲ ਮਨ ਪਵਿੱਤਰ ਹੁੰਦਾ ਹੈ।",
+      "vyakhya_en": "Naam cleanses the mind."
+    },
+    {
+      "id": "46",
+      "date": "",
+      "quote_pa": "ਗੁਰਬਾਣੀ ਇਸੁ ਜਗ ਮਹਿ ਚਾਨਣੁ",
+      "quote_en": "Gurbani is the light of this world.",
+      "vyakhya_pa": "ਗੁਰਬਾਣੀ ਮਨੁੱਖਤਾ ਨੂੰ ਸਹੀ ਰਾਹ ਦਿਖਾਉਂਦੀ ਹੈ।",
+      "vyakhya_en": "Gurbani guides humanity toward truth."
+    },
+    {
+      "id": "47",
+      "date": "",
+      "quote_pa": "ਸਭ ਤੇ ਵਡਾ ਸਤਿਗੁਰੁ ਨਾਨਕ",
+      "quote_en": "Greatest of all is Guru Nanak.",
+      "vyakhya_pa": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਨੇ ਸੰਸਾਰ ਨੂੰ ਸੱਚ ਦਾ ਰਾਹ ਦਿਖਾਇਆ।",
+      "vyakhya_en": "Guru Nanak showed the world the path of truth."
+    },
+    {
+      "id": "48",
+      "date": "",
+      "quote_pa": "ਹਰਿ ਜਨ ਰਾਮ ਨਾਮ ਗੁਣ ਗਾਵੈ",
+      "quote_en": "God’s devotees sing His praises.",
+      "vyakhya_pa": "ਭਗਤ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਦੀ ਮਹਿਮਾ ਗਾਉਂਦੇ ਹਨ।",
+      "vyakhya_en": "Devotees continuously praise God."
+    },
+    {
+      "id": "49",
+      "date": "",
+      "quote_pa": "ਗੁਰ ਕਾ ਦਰਸਨੁ ਦੇਖਿ ਦੇਖਿ ਜੀਵਾ",
+      "quote_en": "Seeing the Guru’s vision, I live.",
+      "vyakhya_pa": "ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਆਤਮਕ ਜੀਵਨ ਦਿੰਦਾ ਹੈ।",
+      "vyakhya_en": "The Guru’s vision gives spiritual life."
+    },
+    {
+      "id": "50",
+      "date": "",
+      "quote_pa": "ਸਤਿਗੁਰ ਬਿਨਾ ਹੋਰ ਕਚੀ ਹੈ ਬਾਣੀ",
+      "quote_en": "Without the True Guru, speech is imperfect.",
+      "vyakhya_pa": "ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾਂ ਮਨੁੱਖ ਨੂੰ ਸੱਚੀ ਸੂਝ ਨਹੀਂ ਮਿਲਦੀ।",
+      "vyakhya_en": "Without the True Guru, true wisdom is not attained."
+    },
+  {
+      "id": "51",
+      "date": "",
+      "quote_pa": "ਤੁਮਰੇ ਕਰਤਬ ਤੁਮ ਹੀ ਜਾਣਹੁ ਤੁਮਰੀ ਓਟ ਗੋੁਪਾਲਾ ਜੀਉ ",
+      "quote_en": "  ",
+      "vyakhya_pa": "ਹੇ ਪ੍ਰਭੂ! ਆਪਣੇ ਫ਼ਰਜ਼ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ। ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣ ਵਾਲੇ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ।",
+      "vyakhya_en": " "
+    },
+  {
+      "id": "52",
+      "date": "",
+      "quote_pa": "ਕਥਾ ਸੁਣਤ ਮਲੁ ਸਗਲੀ ਖੋਵੈ ",
+      "quote_en": "  ",
+      "vyakhya_pa": "ਪ੍ਰਭੂ ਦੀਆਂ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣ ਕੇ ਮੇਰੇ ਮਨ ਦੀ ਸਾਰੀ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਦੂਰ ਹੋ ਰਹੀ ਹੈ।",
+      "vyakhya_en": " "
+    },
+  {
+      "id": "53",
+      "date": "2026-09-04",
+      "quote_pa": "ਸਦਾ ਸਦਾ ਸਦ ਆਪੇ ਹੋਈ",
+      "quote_en": "  ",
+      "vyakhya_pa": "ਸਦਾ ਹੀ, ਸਦਾ ਹੀ, ਸਦਾ ਹੀ ਉਹ ਆਪ ਹੀ ਆਪ ਹੈ।",
+      "vyakhya_en": " "
+    },
+
+{
+      "id": "1",
+      "date": "2026-08-07",
+      "quote_pa": "ਸ੍ਰੀ ਹਰਿਕ੍ਰਿਸ਼ਨ ਧਿਆਈਐ ਜਿਸੁ ਡਿਠੇ ਸਭੁ ਦੁਖੁ ਜਾਇ ",
+      "quote_en": "  ",
+      "vyakhya_pa": "(ਗੁਰੂ) ਸ੍ਰੀ ਹਰਿਕ੍ਰਿਸ਼ਨ ਨੂੰ ਅਰਾਧਦਾ ਹਾਂ ਜਿਨ੍ਹਾਂ ਦੇ ਦਰਸ਼ਨ ਕਰਨ ਨਾਲ ਸਾਰੇ ਦੁਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ।
+",
+      "vyakhya_en": " "
+    }
+  ]
+}
